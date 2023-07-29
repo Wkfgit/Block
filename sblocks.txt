@@ -1,6 +1,5 @@
 |birdsite.xanny.family^
 |Cocktailsandcocktalk.Wordpress.com^
-|css.quest^
 |fedi.absturztau.be^
 |jote.lile.cl^
 |libreddit.aosus.org^
@@ -31,7 +30,9 @@
 |nitter.bird.froth.zone^
 |nitter.c-r-t.tk^
 |nitter.caioalonso.com^
+|nitter.catsarch.com^
 |nitter.d420.de^
+|nitter.dafriser.be^
 |nitter.datura.network^
 |nitter.edist.ro^
 |nitter.esmailelbob.xyz^
@@ -69,6 +70,7 @@
 |nitter.weiler.rocks^
 |nitter.winscloud.net^
 |nitter.services.woodland.cafe^
+|nitter.x86-64-unknown-linux-gnu.zip^
 |r.ahwx.org^
 |r.darklab.sh^
 |r.til.io^
@@ -78,6 +80,7 @@
 |reddit.elpengu.com^
 |reddit.i.palash.dev^
 |reddit.leptons.xyz^
+|reddit.raforaweso.me^
 |reddit.rtrace.io^
 |reddit.utsav2.dev^
 |some.eipystyilman.beer^
