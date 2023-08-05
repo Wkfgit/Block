@@ -56,6 +56,7 @@
 |nitter.notraxx.ch^
 |nitter.oksocial.net^
 |nitter.onthescent.xyz^
+|nitter.perennialte.ch^
 |nitter.poast.org^
 |nitter.privacy.com.de^
 |nitter.private.coffee^
@@ -80,6 +81,7 @@
 |reddit.elpengu.com^
 |reddit.i.palash.dev^
 |reddit.leptons.xyz^
+|reddit.mindinet.org^
 |reddit.raforaweso.me^
 |reddit.rtrace.io^
 |reddit.utsav2.dev^
