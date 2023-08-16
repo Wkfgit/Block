@@ -41,6 +41,7 @@
 |nitter.fdn.fr^
 |nitter.fediflix.org^
 |nitter.fly.dev^
+|nitter.grimneko.de^
 |nitter.inpt.fr^
 |nitter.io.lol ^
 |nitter.kling.gg^
@@ -88,10 +89,11 @@
 |some.eipystyilman.beer^
 |t.com.sb^
 |t.floss.media^
-|t.numblr.net^
+|themenofgp2.typepad.com^
 |teddit.froth.zone^
 |teddit.zaggy.nl^
 |tweet.lambda.dance^
 |tweet.whateveritworks.org^
 |twitter.lurkmore.com^
 |twitter.privacyplz.org^
+
