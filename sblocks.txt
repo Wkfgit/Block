@@ -62,6 +62,7 @@
 |nitter.privacy.com.de^
 |nitter.private.coffee^
 |nitter.qwik.space^
+|nitter.salastil.com^
 |nitter.simpleprivacy.fr^
 |nitter.snopyta.org^
 |nitter.soopy.moe^
@@ -73,6 +74,7 @@
 |nitter.winscloud.net^
 |nitter.services.woodland.cafe^
 |nitter.x86-64-unknown-linux-gnu.zip^
+|nt.ggtyler.dev^
 |r.ahwx.org^
 |r.darklab.sh^
 |r.til.io^
@@ -96,4 +98,3 @@
 |tweet.whateveritworks.org^
 |twitter.lurkmore.com^
 |twitter.privacyplz.org^
-
