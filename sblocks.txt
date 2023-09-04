@@ -91,6 +91,7 @@
 |some.eipystyilman.beer^
 |t.com.sb^
 |t.floss.media^
+|teamhelmetuk.weebly.com^
 |themenofgp2.typepad.com^
 |teddit.froth.zone^
 |teddit.zaggy.nl^
@@ -98,3 +99,5 @@
 |tweet.whateveritworks.org^
 |twitter.lurkmore.com^
 |twitter.privacyplz.org^
+|www.dieoff.org^
+|www.willyworries.com^
