@@ -4,9 +4,11 @@
 ||artemislena.eu^
 ||B4watch.com^
 ||bear.community^
+||Bearhotel.net*
 ||blob.cat^
 ||Blogspot.com^
 ||bodytorium.com^
+||Bulgemag.com^
 ||bus-hit.me^
 ||catgirl.cloud^
 ||cawfee.club^
@@ -14,6 +16,8 @@
 ||css.quest^
 ||D.tube^
 ||dcs0.hu^
+||Desertheatimages.com^
+||Desertheatmag.com^
 ||dirtyboyz.org^
 ||domain.glass^
 ||dr460nf1r3.org^
@@ -33,6 +37,7 @@
 ||habedieeh.re^
 ||hostux.net^
 ||hostux.social^
+||hugeblackman.com^
 ||Imgur.com^
 ||incogsnoo.com^
 ||jawked.com^
@@ -117,3 +122,4 @@
 ||Vk.com^
 ||Welqum.com^
 ||whatever.social^
+||Woofbears.com^
