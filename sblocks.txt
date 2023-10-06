@@ -42,6 +42,7 @@
 |nitter.fediflix.org^
 |nitter.fly.dev^
 |nitter.grimneko.de^
+|nitter.hyperreal.coffee^
 |nitter.inpt.fr^
 |nitter.io.lol ^
 |nitter.kling.gg^
@@ -69,6 +70,7 @@
 |nitter.spaceint.fr^
 |nitter.tannhauser.network^
 |nitter.twei.space^
+|nitter.uni-sonia.com^
 |nitter.unixfox.eu^
 |nitter.weiler.rocks^
 |nitter.winscloud.net^
