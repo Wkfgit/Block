@@ -2,6 +2,7 @@
 |Cocktailsandcocktalk.Wordpress.com^
 |fedi.absturztau.be^
 |jote.lile.cl^
+|ld.skrep.eu^
 |libreddit.aosus.org^
 |libreddit.app.runonflux.io^
 |libreddit.artist.cx^
@@ -9,6 +10,7 @@
 |libreddit.colibriste.org^
 |libreddit.garudalinux.org^
 |libreddit.kutay.dev^
+|libreddit.miaoute.net^
 |libreddit.nocturn9x.space^
 |libreddit.northboot.xyz^
 |libreddit.oct0p.us^
@@ -18,6 +20,7 @@
 |libreddit.sebastianforst.de^
 |libreddit.slackjeff.com.br^
 |libreddit.strongthany.cc^
+|libreddit.techchud.xyz^
 |libreddit.yonalee.eu^
 |lr.4201337.xyz^
 |lr.aeong.one^
@@ -83,12 +86,14 @@
 |r.walkx.fyi^
 |r.walkx.org^
 |rd.funami.tech^
+|reddit.ccllssd.com^
 |reddit.elpengu.com^
 |reddit.invak.id^
 |reddit.i.palash.dev^
 |reddit.leptons.xyz^
 |reddit.mindinet.org^
 |reddit.raforaweso.me^
+|reddit.reverienetwork.com^
 |reddit.rtrace.io^
 |reddit.utsav2.dev^
 |some.eipystyilman.beer^
