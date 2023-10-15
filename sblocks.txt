@@ -9,6 +9,7 @@
 |libreddit.cachyos.org^
 |libreddit.colibriste.org^
 |libreddit.garudalinux.org^
+|libreddit.krz.tf^
 |libreddit.kutay.dev^
 |libreddit.miaoute.net^
 |libreddit.nocturn9x.space^
@@ -88,6 +89,7 @@
 |rd.funami.tech^
 |reddit.ccllssd.com^
 |reddit.elpengu.com^
+|redditor.fly.dev^
 |reddit.invak.id^
 |reddit.i.palash.dev^
 |reddit.leptons.xyz^
