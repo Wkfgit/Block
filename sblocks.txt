@@ -22,6 +22,7 @@
 |libreddit.slackjeff.com.br^
 |libreddit.strongthany.cc^
 |libreddit.techchud.xyz^
+|libreddit.teknologiumum.com^
 |libreddit.yonalee.eu^
 |lr.4201337.xyz^
 |lr.aeong.one^
@@ -108,4 +109,5 @@
 |twitter.lurkmore.com^
 |twitter.privacyplz.org^
 |www.dieoff.org^
+|www.nullzwei.live^
 |www.willyworries.com^
