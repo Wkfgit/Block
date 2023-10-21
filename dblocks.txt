@@ -31,7 +31,7 @@
 ||fore-skin.com^
 ||freedit.eu^
 ||fsharetv.co^
-||fly.dev
+||fly.dev^
 ||gameliberty.club^
 ||gaymoviescene.com^
 ||graveravens.com^
