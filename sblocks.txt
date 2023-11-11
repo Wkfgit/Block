@@ -28,6 +28,7 @@
 |lr.aeong.one^
 |lr.riverside.rocks^
 |mastodon.org.uk^
+|n.biendeo.com^
 |n.l5.ca^
 |nitter.1d4.us^
 |nitter.42l.fr^
@@ -73,6 +74,7 @@
 |nitter.soopy.moe^
 |nitter.spaceint.fr^
 |nitter.tannhauser.network^
+|nitter.tinfoil-hat.net^
 |nitter.twei.space^
 |nitter.uni-sonia.com^
 |nitter.unixfox.eu^
