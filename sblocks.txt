@@ -3,11 +3,13 @@
 |fedi.absturztau.be^
 |jote.lile.cl^
 |ld.skrep.eu^
+|libr.pixel63.fr^
 |libreddit.aosus.org^
 |libreddit.app.runonflux.io^
 |libreddit.artist.cx^
 |libreddit.cachyos.org^
 |libreddit.colibriste.org^
+|libreddit.froyo.studio^
 |libreddit.garudalinux.org^
 |libreddit.krz.tf^
 |libreddit.kutay.dev^
@@ -20,6 +22,7 @@
 |libreddit.privacy.com.de^
 |libreddit.sebastianforst.de^
 |libreddit.slackjeff.com.br^
+|libreddit.spike.codes^
 |libreddit.strongthany.cc^
 |libreddit.techchud.xyz^
 |libreddit.teknologiumum.com^
@@ -79,7 +82,6 @@
 |nitter.uni-sonia.com^
 |nitter.unixfox.eu^
 |nitter.weiler.rocks^
-|nitter.winscloud.net^
 |nitter.services.woodland.cafe^
 |nitter.x86-64-unknown-linux-gnu.zip^
 |nt.ggtyler.dev^
