@@ -9,6 +9,7 @@
 |libreddit.artist.cx^
 |libreddit.cachyos.org^
 |libreddit.colibriste.org^
+|libreddit.duckville.synology.me^
 |libreddit.froyo.studio^
 |libreddit.garudalinux.org^
 |libreddit.krz.tf^
@@ -33,6 +34,7 @@
 |mastodon.org.uk^
 |n.biendeo.com^
 |n.l5.ca^
+|n.populas.no^
 |nitter.1d4.us^
 |nitter.42l.fr^
 |nitter.altgr.xyz^
@@ -53,11 +55,13 @@
 |nitter.hyperreal.coffee^
 |nitter.inpt.fr^
 |nitter.io.lol ^
+|nitter.jakefrosty.com^
 |nitter.kling.gg^
 |nitter.ktachibana.party^
 |nitter.lacontrevoie.fr^
 |nitter.librenode.org^
 |nitter.mailstation.de^
+|nitter.manasiwibi.com^
 |nitter.mastodon.pro^
 |nitter.matsuda.tips^
 |nitter.moomoo.me^
