@@ -99,6 +99,7 @@
 |reddit.invak.id^
 |reddit.i.palash.dev^
 |reddit.leptons.xyz^
+|reddit.map.fastly.net^
 |reddit.mindinet.org^
 |reddit.raforaweso.me^
 |reddit.reverienetwork.com^
