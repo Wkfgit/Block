@@ -12,6 +12,7 @@
 |libreddit.artist.cx^
 |libreddit.cachyos.org^
 |libreddit.colibriste.org^
+|libreddit.duckville.synology.me^
 |libreddit.froyo.studio^
 |libreddit.garudalinux.org^
 |libreddit.krz.tf^
