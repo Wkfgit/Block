@@ -1,6 +1,7 @@
+|bbxlbatebros.discussion.community^
 |birdsite.xanny.family^
 |britishgaypornfan.wixsite.com^
-|Cocktailsandcocktalk.Wordpress.com^
+|cocktailsandcocktalk.Wordpress.com^
 |fedi.absturztau.be^
 |flex4me.com^
 |internationalfan.wixsite.com^
@@ -106,6 +107,7 @@
 |reddit.reverienetwork.com^
 |reddit.rtrace.io^
 |reddit.utsav2.dev^
+|scallyalley69.wixsite.com^
 |some.eipystyilman.beer^
 |t.com.sb^
 |t.floss.media^
@@ -119,5 +121,4 @@
 |twitter.privacyplz.org^
 |www.dieoff.org^
 |www.nullzwei.live^
-|www.thebestflex.com^
 |www.willyworries.com^
