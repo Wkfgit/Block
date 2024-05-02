@@ -11,6 +11,7 @@
 |libreddit.aosus.org^
 |libreddit.app.runonflux.io^
 |libreddit.artist.cx^
+|libreddit.baczek.me^
 |libreddit.cachyos.org^
 |libreddit.colibriste.org^
 |libreddit.duckville.synology.me^
@@ -107,6 +108,8 @@
 |reddit.reverienetwork.com^
 |reddit.rtrace.io^
 |reddit.utsav2.dev^
+|redlib.kittywi.re^
+|redlib.private.coffee^
 |scallyalley69.wixsite.com^
 |some.eipystyilman.beer^
 |t.com.sb^
