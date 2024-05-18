@@ -121,6 +121,7 @@
 ||onlynude.men^
 ||opnxng.com^
 ||pawoo.net^
+||perchance.org^
 ||pillowfort.social^
 ||privacydev.net^
 ||privacytools.io^
