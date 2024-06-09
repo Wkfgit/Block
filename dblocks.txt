@@ -108,6 +108,7 @@
 ||myvidster.com^
 ||nesaporn.com^
 ||nesaporn.org^
+||nhentaiyaoi.net^
 ||nitter.at^
 ||nitter.cz^
 ||nitter.ir^
