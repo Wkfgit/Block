@@ -122,7 +122,9 @@
 |tweet.whateveritworks.org^
 |twitter.lurkmore.com^
 |twitter.privacyplz.org^
+|v2.comiz.net^
 |www.babezdoor.com^
 |www.dieoff.org^
+|www.gohiai.com^
 |www.nullzwei.live^
 |www.willyworries.com^
