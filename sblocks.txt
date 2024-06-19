@@ -16,6 +16,7 @@
 |libreddit.colibriste.org^
 |libreddit.duckville.synology.me^
 |libreddit.froyo.studio^
+|libreddit.eu.org^
 |libreddit.garudalinux.org^
 |libreddit.krz.tf^
 |libreddit.kutay.dev^
