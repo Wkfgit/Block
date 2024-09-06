@@ -181,6 +181,7 @@
 ||vimeo.com^
 ||vk.com^
 ||voenixrising.com^
+||waptap.com^
 ||welqum.com^
 ||whatever.social^
 ||winscloud.net^
