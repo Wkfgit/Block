@@ -153,6 +153,7 @@
 ||reddit.baby^
 ||Reddit.com^
 ||reddit.lol^
+||reddit-viewer.com^
 ||redditery.com^
 ||redditgrid.com^
 ||rentmen.eu^
