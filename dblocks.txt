@@ -211,4 +211,5 @@
 ||whatever.social^
 ||winscloud.net^
 ||woofbears.com^
+||x.com^
 ||xpresso.us^
